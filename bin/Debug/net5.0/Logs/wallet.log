@@ -1,0 +1,2 @@
+2024-07-12 15:38:28,475 [13] INFO  WalletService.Controllers.WalletController - Request to create a new wallet.
+2024-07-12 15:38:28,997 [13] INFO  WalletService.Controllers.WalletController - Wallet created with Id: 7a0c663d-e793-4877-8685-771f9862dc6b
